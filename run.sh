@@ -1,6 +1,7 @@
 #!/bin/bash
 
 message="$(calendar | head -n 1)";
+cd ~/aughing-octo-dangerzone;
 git pull > /dev/null;
 head -c 32 /dev/random > somefile.txt;
 echo $message >> somefile.txt;
