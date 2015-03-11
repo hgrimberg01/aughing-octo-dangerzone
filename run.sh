@@ -1,6 +1,6 @@
 #!/bin/bash
 
-message="$(calendar | head -n 1)";
+message="$(calendar | head -n 2)";
 cd ~/aughing-octo-dangerzone;
 git pull > /dev/null;
 head -c 32 /dev/random > somefile.txt;
