@@ -1,6 +1,5 @@
 #!/bin/bash
-
-random="$(openssl rand 2 | od -DAn | xargs)";
+random="$(openssl rand 1 | od -DAn | xargs)";
 message="$(calendar | head -n 3)";
 cd ~/aughing-octo-dangerzone;
 git pull > /dev/null;
