@@ -11,4 +11,4 @@ It will reload on save.
 
 0 */2 * * *   ~/aughing-octo-danger/run.sh > /dev/null
 
-For thos unversed in crontab syntax, this is saying run on the 0th (first minute) of every other hour for every day of the month, every day of the week, every month.
+For those unversed in crontab syntax, this is saying run on the 0th (first minute) of every other hour for every day of the month, every day of the week, every month.
