@@ -1,15 +1,4 @@
-Z!f&�9n�G.>��a�I���y����m�J,�R�]��vD�b��#S�1uQ�毴$�/YG;�lÞ]���V�G����D��(#�t���1I2�}6�QA��B�_R^�q(G�������e�Շ��wZ�$7*�`��xu�s&�v�%=�2i��QM�iQ;��(�Hl�n�.sQh���h�tnܑ��]�����|��#��0R���o��8��/�v�اMar 18 	Aleksei Leonov performs first spacewalk, 1965
-Mar 18 	Destruction of the Ring
-Mar 18 	Sheela's Day
-Mar 18 		Canberra Day (ACT)
-Mar 18 	Koop Mast <kwm@FreeBSD.org> born in Dokkum, the Netherlands, 1981
-Mar 18 	N'oubliez pas les Cyrille !
-Mar 18 	Erste demokratische Volkskammerwahl, 1990
-Mar 18 	Sándor, Ede
-Mar 18 	День налоговой полиции
-Mar 18 	Международный день музеев
-Mar 18 	День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)
-Mar 19 	Swallows return to Capistrano
+ͣy��i�ɾN[�X�J"y��\��'��1G���,ʉ���]l��;����8ӥٴ�J�j�q����콞Mar 19 	Swallows return to Capistrano
 Mar 19 	St. Joseph's Day, observed in Colombia, Costa Rica, Holy See,
 	Liechtenstein,	San Marino, Spain, Venezuela
 Mar 19 	Tree Planting Day in Lestho
@@ -26,3 +15,22 @@ Mar 19 	Богоявление или Крещение Господне
 Mar 19 	Преображение Господне
 Mar 19 	Богоявлення або Хрещення Господнє
 Mar 19 	Преображення Господнє
+Mar 20 	Radio Caroline, the original British pirate radio station, sinks, 1980
+Mar 20 	Independence Day in Tunisia
+Mar 20 	Youth Day in Oklahoma
+Mar 20*	Vernal Equinox in Japan
+Mar 20 	Festival of Iduna
+Mar 20 	Un terremoto destruye casi totalmente Mendoza, 1861
+Mar 20 	Joseph S. Atkinson <jsa@FreeBSD.org> born in Batesville, Arkansas, United States, 1977
+Mar 20 	Henrik Brix Andersen <brix@FreeBSD.org> born in Aarhus, Denmark, 1978
+Mar 20 	MANTANI Nobutaka <nobutaka@FreeBSD.org> born in Hiroshima, Japan, 1978
+Mar 20 	Cameron Grant <cg@FreeBSD.org> died in Hemel Hempstead, United Kingdom, 2005
+Mar 20 	Aujourd'hui, c'est la St(e) Herbert.
+Mar 20 	N'oubliez pas les Wulfran !
+Mar 20*	Frühlingsanfang
+Mar 20 	Entlassung von Bismarck als Reichskanzler und
+	preußischer Ministerpräsident, 1890
+Mar 20 	Klaudia
+Mar 20 	День работника органов безопасности
+Mar 20*	Весенние равноденствие
+Mar 20*	Vernal Equinox
