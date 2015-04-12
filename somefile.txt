@@ -1,12 +1,4 @@
-Œ(XÂmÍ|3#”H•ljÕğ«¼Úv¦·4%È³‘Î6PÄ(ew*œ³UKšşKòx¼ 2¼8øò®0ÕRÂŸNÇ"èÎáÿ÷èa¶æÅ"&]~”;¾"îT‘Ú²t¹4²£1s?¼´I_#ëˆåE¹5b·¨óì¹<Ø¬ü|h¡b¥hƒÛNÑ?®İ’ÌÉ4T%e#ëòApr 11 	National Heroes Day in Costa Rica
-Apr 11 	Es asesinado Justo J. de Urquiza en el Palacio San JosÃ©, 1870
-Apr 11 	Bruce A. Mah <bmah@FreeBSD.org> born in Fresno, California, United States, 1969
-Apr 11 	N'oubliez pas les Stanislas !
-Apr 11 	Bonne fÃªte aux Gemma !
-Apr 11 	Aujourd'hui, c'est la St(e) LÃ©on.
-Apr 11 	Attentat auf Dutschke, Studentenunruhen, 1968
-Apr 11 	LeÃ³, SzaniszlÃ³
-Apr 12 	Confederate troops fire first shots of Civil War at Ft Sumter, 1861
+¶‹…ïõphzĞn¼:ğ—¤¯)^¼ÔğïDÃ‚‹»ÕÜ7ò·ŞP”·§$ğp<Apr 12 	Confederate troops fire first shots of Civil War at Ft Sumter, 1861
 Apr 12 	Space Shuttle Columbia launched, 1981
 Apr 12 	Yuri Gagarin becomes the first man in space, 1961
 Apr 12 	Patrick Gardella <patrick@FreeBSD.org> born in Columbus, Ohio, United States, 1967
@@ -17,3 +9,13 @@ Apr 12 	Gyula
 Apr 12*	Ğ”ĞµĞ½ÑŒ Ğ²Ğ¾Ğ¹ÑĞº Ğ¿Ñ€Ğ¾Ñ‚Ğ¸Ğ²Ğ¾Ğ²Ğ¾Ğ·Ğ´ÑƒÑˆĞ½Ğ¾Ğ¹ Ğ¾Ğ±Ğ¾Ñ€Ğ¾Ğ½Ñ‹
 Apr 12*	Ğ’Ğ¾ÑĞºÑ€ĞµÑĞµĞ½Ğ¸Ğµ Ğ¥Ñ€Ğ¸ÑÑ‚Ğ¾Ğ²Ğ¾
 Apr 12*	Ğ’Ğ¾ÑĞºÑ€ĞµÑÑ–Ğ½Ğ½Ñ Ğ¥Ñ€Ğ¸ÑÑ‚Ğ¾Ğ²Ğµ
+Apr 13 	Thomas Jefferson, 3rd President of the United States, born Shadwell
+		Plantation, Albemarle County, Virginia, 1743
+Apr 13 	Laotian New Year (3 days) in Laos
+Apr 13 	National Day in Chad
+Apr 13 	Songkran Day in Thailand
+Apr 13 	Oliver Braun <obraun@FreeBSD.org> born in Nuremberg, Bavaria, Germany, 1972
+Apr 13 	Aujourd'hui, c'est la St(e) Ida.
+Apr 13 	N'oubliez pas les HermÃ©nÃ©gilde !
+Apr 13 	Ida
+Apr 13 	Ğ”ĞµĞ½ÑŒ Ñ€Ğ¾ÑÑĞ¸Ğ¹ÑĞºĞ¾Ğ¹ Ğ¿ĞµÑ‡Ğ°Ñ‚Ğ¸
