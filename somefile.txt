@@ -1,19 +1,5 @@
-V�[��t��3A	& һ�Uǆ�[3@C�B]뛗N�\��~�c��&���������Ԟkl��l��ǰ֪����0ӂ�x���z���5	�d�jI@�BV���8�Apr 23 	Hank Aaron hits his first home run, 1954
-Apr 23 	Crowning of King Ellesar
-Apr 23 	St. George's Day - Patron Saint of England
-Apr 23 	Ubuntu 9.04 (Jaunty Jackalope) released, 2009
-Apr 23 	N'oubliez pas les Georges !
-Apr 23 	Bonne fête aux Pierre !
-Apr 23 	À la saint Georges,
-	Sème ton orge,
-	À la saint Marc,
-	Il est trop tard.
-Apr 23 	Béla
-Apr 23 	День защитника Отечества
-Apr 23 	День победы Красной Армии над кайзеровскими войсками Германии (1918 год)
-Apr 23 	День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)
-Apr 23 	St. George's Day (England)
-Apr 24 	Victory Day in Togo
+�\0M��rF0�A\�:�u��Hmw�rr��;��C<)/�naT�
+��M�$�2�I�)+����3�V7µ&G����1����T�+a�oq�ksD�+�,�KR�;��(R���[a��H�jh���AW��P��K�P(΍M�*[�����bI�?����y?��ʹLR�>*!��旗�4�1��Q�k�{�~z����Apr 24 	Victory Day in Togo
 Apr 24 	European Monetary System founded, 1972
 Apr 24 	Ubuntu 8.04 LTS (Hardy Heron) released, 2008
 Apr 24 	Aujourd'hui, c'est la St(e) Fidèle.
@@ -23,3 +9,57 @@ Apr 24 	День славянской письменности и культур
 Apr 24 	Международный день ООН
 Apr 24 	День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)
 Apr 24 	День Велеса
+Apr 25 	St Mark
+Apr 25 	Anniversary of the Revolution in Portugal
+Apr 25 	Anzac Day, observed in Australia, New Zealand, Tonga and Western Samoa
+Apr 25 	Liberation Day in Italy
+Apr 25 	National Flag Day in Swaziland
+Apr 25 	Blues guitarist Albert King is born, 1925
+Apr 25 	Ella Fitzgerald born, 1918
+Apr 25 	Ubuntu 13.04 (Raring Ringtail) released, 2013
+Apr 25 		Anzac Day Australian and New Zealand Army Corps) Day (Australia)
+Apr 25 	Bonne fête aux Marc !
+Apr 25 	À la saint Marc, s'il tombe de l'eau,
+	Il n'y aura pas de fruits à couteau.
+Apr 25 	Zusammentreffen von amerikanischen und sowjetischen Truppen
+	bei Torgau an der Elbe, 1945
+Apr 25 	Márk
+Apr 25 	Татьянин день. Студенческий праздник
+Apr 25 	День таможенника
+Apr 25 	Коляда (сдвинутое зимнее солнцестояние)
+Apr 26 	William Shakespeare baptized in Stratford-on-Avon, England, 1564,
+	birthdate unknown
+Apr 26 	Confederate Memorial Day in Florida & Georgia
+Apr 26 	Union Day in Tanzania
+Apr 26 	Carol Burnett born in San Antonio, Texas, 1933
+Apr 26 	Debian Social Contract v1.1 ratified, 2004
+Apr 26 	Ubuntu 12.04 LTS (Precise Pangolin) released, 2012
+Apr 26 	Rene Ladan <rene@FreeBSD.org> born in Geldrop, the Netherlands, 1980
+Apr 26 	Aujourd'hui, c'est la St(e) Alida.
+Apr 26 	GAU in Tschernobyl, 1986
+Apr 26 	Ervin
+Apr 26 	День памяти погибших в радиационных авариях и катастрофах
+Apr 26 	День российского предпринимательства
+Apr 26 	Всемирный день информации
+Apr 27 	Louis Victor de Broglie born, 1774, physicist
+Apr 27 	Samuel Morse born, 1791, the inventor of the single wire telegraph
+Apr 27 	Magellan killed in Philippines, 1521
+Apr 27 	Independence Day in Togo
+Apr 27*	Arbor Day in Wyoming (last Monday)
+Apr 27*	Confederate Memorial Day in Alabama & Mississippi (last Monday)
+Apr 27 	Freedom Day in South Africa
+Apr 27 	Kroonprins Willem Alexander (1967)
+Apr 27 	N'oubliez pas les Zita !
+Apr 27 	Bonne fête aux Pierre !
+Apr 27 	Zita
+Apr 27 	Международный день театра
+Apr 27 	День внутренних войск
+Apr 27 	Общероссийский день библиотек
+Apr 27 	День молодежи
+Apr 27 	День кино
+Apr 27 	День спасателя
+Apr 27 	День снятия блокады города Ленинграда (1944 год)
+Apr 27 	Воздвижение Креста Господня
+Apr 27 	Отбор жертв Перуну, русалии
+Apr 27 	Freedom Day in South Africa
+Apr 27 	Воздвиження Чесного Хреста
