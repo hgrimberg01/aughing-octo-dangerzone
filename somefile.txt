@@ -1,4 +1,4 @@
--����KBMay 01 	Little Walter (Marion Walter Jacobs) is born in Alexandria,
+�n��s���E����G��P����W��p��8�uE�Dr-d�t�}�xk�:��o¸�X�<ݢ�*���#���]�*��May 01 	Little Walter (Marion Walter Jacobs) is born in Alexandria,
 		Louisiana, 1930
 May 01 	St Philip and St James
 May 01 	First BASIC program run at Dartmouth, 1964
@@ -6,3 +6,58 @@ May 01 	Beltaine; Feast of the god Bel, sun god
 May 01 	Labor Day in many places in the USA
 May 01 	May Day in many places
 May 01 	US Law Day (decl. by Eisenhower)
+May 01 	Workers' Day in South Africa
+May 01 	Kate Smith born, 1909
+May 01 	Antonin Dvorak dies in Prague, 1904
+May 01 	May Day / Beltane / Bealtaine - Celtic bonfire festival
+May 01 	Día de la Constitución Argentina, 1853
+May 01 	Praznik rada
+May 01 	Randall Stewart <rrs@FreeBSD.org> born in Spokane, Washington, United States, 1959
+May 01 	Fête du travail
+May 01 	Maifeiertag
+May 01 	Munka ünnepe
+May 01 	Fülöp, Jakab
+May 01 		Қазақстан халқының бірлігі мерекесі
+May 01 	День Российской Адвокатуры
+May 01 	День эколога
+May 01 	День учителя
+May 01 	Новогодние каникулы
+May 01 	День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)
+May 01 	Workers Day in South Africa
+May 02 	Dr. Benjamin Spock born, 1903
+May 02 	King's Birthday in Lesotho
+May 02 	Wojciech A. Koszek <wkoszek@FreeBSD.org> born in Czestochowa, Poland, 1987
+May 02 	N'oubliez pas les Boris !
+May 02 	Auflösung der Gewerkschaften, 1933
+May 02 	Zsigmond
+May 03 	Anti-war protest disrupts business in Washington, 1971
+May 03 	Constitution Memorial Day in Japan
+May 03 	Bob Seger is born in Ann Arbor, Michigan, 1945
+May 03 	Discoflux (50th of the Season of Discord)
+May 03 	Debian Logo chosen, 1999
+May 03 	Letter from J. Destrée to the King : 'Sire, there is no belgian. There
+	is only Flemish and Walloon', 1912
+May 03 	Discoflux (50th of the Season of Discord)
+May 03 	Brian Dean <bsd@FreeBSD.org> born in Elkins, West Virginia, United States, 1966
+May 03 	Robert Nicholas Maxwell Watson <rwatson@FreeBSD.org> born in Harrow, Middlesex, United Kingdom, 1977
+May 03 	Bonne fête aux Jacques !
+May 03 	Aujourd'hui, c'est la St(e) Philippe.
+May 03 	Les trois saints au sang de navet,
+	Pancrace, Mamert et Servais,
+	Sont bien nommés les saints de glace,
+	Mamert, Servais et Pancrace.
+May 03 	Tímea, Irma
+May 04 	Alice Liddell born, 1852, Alice's Adventures in Wonderland
+		& Through the Looking-Glass
+May 04 	Four Kent State students are shot down by the National Guard, 1970
+May 04 	Greenery Day in Japan
+May 04 	Rhode Island Independence Day
+May 04*	Bank Holiday in UK
+May 04 	Holiday for a Nation in Japan
+May 04 	2nd Cross-Quarter Day
+May 04*	May Day (NT)
+May 04*	Labour Day (QLD)
+May 04 	Denis Peplin <den@FreeBSD.org> born in Nizhniy Novgorod, Russian Federation, 1977
+May 04 	N'oubliez pas les Sylvain !
+May 04 	Mónika,	Flórián
+May 04*	Early May bank holiday
