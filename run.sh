@@ -1,6 +1,6 @@
 #!/bin/bash
 random="$(openssl rand 1 | od -DAn | xargs)";
-message="$(cal | head -n 3)";
+message="$(calendar | head -n 3)";
 cd ~/aughing-octo-dangerzone;
 git pull > /dev/null;
 head -c "$random" /dev/urandom > somefile.txt;
