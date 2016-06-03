@@ -1,10 +1,15 @@
-#!/bin/bash
-random="$(openssl rand 1 | od -DAn | xargs)";
-message="$(calendar | head -n $random)";
+#!/usr/bin/env bash
+message="$(calendar | head -n $((($RANDOM % 9) + 1)))";
 cd ~/aughing-octo-dangerzone;
 git pull > /dev/null;
-head -c "$random" /dev/urandom > somefile.txt;
-cal | head -n "$random" >> somefile.txt;
+head -c 32 /dev/urandom > somefile.txt;
+echo $message >> somefile.txt;
+
+if [ $(($RANDOM % 2)) -ne 0 ]; then
+     exit 1;
+fi
+
+echo "DoStuff";
 git add . ;
 git commit -m "$message" > /dev/null;
 git push origin master;
